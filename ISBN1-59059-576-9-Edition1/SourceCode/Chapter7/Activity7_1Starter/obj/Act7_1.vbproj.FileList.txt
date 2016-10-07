@@ -1,0 +1,2 @@
+obj\Debug\Act7_1.exe
+obj\Debug\Act7_1.pdb

@@ -1,0 +1,16 @@
+obj\Debug\Act5_2.exe
+obj\Debug\Act5_2.pdb
+bin\Act5_2.exe
+bin\Act5_2.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Act5_2.Form1.resources
+obj\Debug\Act5_2.Resources.resources
+obj\Debug\Act5_2.vbproj.GenerateResource.Cache
+obj\Debug\Act5_2.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Act5_2.Form1.resources
+obj\Release\Act5_2.Resources.resources
+obj\Release\Act5_2.vbproj.GenerateResource.Cache
+obj\Release\Act5_2.exe
+obj\Release\Act5_2.xml
+bin\Act5_2.pdb

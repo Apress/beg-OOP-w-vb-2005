@@ -1,0 +1,13 @@
+obj\Debug\OSOBusTier.exe
+obj\Debug\OSOBusTier.pdb
+bin\OSOBusTier.exe
+bin\OSOBusTier.pdb
+bin\OSOBusTier.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\OSOBusTier.Form1.resources
+obj\Debug\OSOBusTier.Resources.resources
+obj\Debug\OSOBusTier.vbproj.GenerateResource.Cache
+obj\Debug\OSOBusTier.xml
+obj\Debug\OSOBusTier.frmOrder.resources
+obj\Debug\OSOBusTier.dlgLogin.resources
+obj\Debug\OSOBusTier.dlgOrderItem.resources

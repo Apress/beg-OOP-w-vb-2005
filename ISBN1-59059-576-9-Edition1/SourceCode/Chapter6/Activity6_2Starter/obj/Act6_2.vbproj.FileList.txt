@@ -1,0 +1,10 @@
+obj\Debug\Act6_2.exe
+obj\Debug\Act6_2.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Act6_2.frmEmployeeInfo.resources
+obj\Release\Act6_2.Resources.resources
+obj\Release\Act6_2.vbproj.GenerateResource.Cache
+bin\Act6_2.exe
+bin\Act6_2.xml
+obj\Release\Act6_2.exe
+obj\Release\Act6_2.xml

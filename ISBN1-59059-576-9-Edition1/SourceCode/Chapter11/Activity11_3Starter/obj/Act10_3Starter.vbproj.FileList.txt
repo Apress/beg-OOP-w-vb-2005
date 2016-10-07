@@ -1,0 +1,2 @@
+obj\Debug\Act10_3.exe
+obj\Debug\Act10_3.pdb

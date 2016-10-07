@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Act10_3.frmBookInfo.resources
+obj\Debug\Act10_3.Resources.resources
+obj\Debug\Act11_3Starter.vbproj.GenerateResource.Cache
+obj\Debug\Act10_3.exe
+obj\Debug\Act10_3.pdb
+bin\Act10_3.exe
+bin\Act10_3.pdb
+bin\Act10_3.xml
+obj\Debug\Act10_3.xml
+obj\Debug\Act10_3.frmPubBookInfo.resources
+obj\Debug\Act10_3.frmPubCollection.resources
